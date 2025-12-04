@@ -1,0 +1,11 @@
+{
+  "name": "app-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    // Add any dependencies you need here
+  }
+}
